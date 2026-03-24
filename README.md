@@ -1,4 +1,4 @@
-# Hi there, I'm Ado (@Moadh992) 👋
+# Hi there, I'm Ado (@Moadh992) 👋🏽
 
 ### 🚀 Software Engineer & AI Specialist
 I'm a pragmatic engineer focused on building intelligent systems, automation, and user-centric applications. I specialize in AI agent orchestration and full-stack development.
