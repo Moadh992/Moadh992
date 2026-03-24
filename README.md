@@ -15,8 +15,15 @@ I'm a pragmatic engineer focused on building intelligent systems, automation, an
 
 ### 📊 GitHub Stats
 
-![Moadh992's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moadh992&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moadh992&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moadh992&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Moadh992's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moadh992&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moadh992&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
