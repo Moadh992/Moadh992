@@ -1,4 +1,4 @@
-# Hi there, I'm Ado (@Moadh992) 👋🏽
+# Hi there, I'm Ado (@Moadh992) 👋
 
 ### 🚀 Software Engineer & AI Specialist
 I'm a pragmatic engineer focused on building intelligent systems, automation, and user-centric applications. I specialize in AI agent orchestration and full-stack development.
@@ -22,9 +22,9 @@ I'm a pragmatic engineer focused on building intelligent systems, automation, an
 
 ### 🌟 Featured Projects
 
+- **[Oasis](https://github.com/Moadh992/Oasis)**: 🏝️ Modern React application powered by Google's Gemini AI.
 - **[inboxos](https://github.com/Moadh992/inboxos)**: AI-powered email management platform.
 - **[Agent-xAI](https://github.com/Moadh992/Agent-xAI)**: Advanced AI agent orchestration.
-- **[O-flock](https://github.com/Moadh992/O-flock)**: Introspection tool for ambitious builders.
 
 ---
 
